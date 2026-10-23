@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c4e3b65c76c761743a1cb8f6a10ac43d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Imperial One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74f92bd7d451a2c4abff2a5c6f303b38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
